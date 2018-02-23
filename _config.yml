@@ -7,13 +7,13 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Allie McCrary
-  avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  avatar: Profile.amccrea.jpg
+  bio: "Social scientist. Recreationologist."
   email: amccrea@ncsu.edu
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
+  twitter: #dr_mccreary
   linkedin: #username
-  github: #username
+  github: #Allie-McCreary
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
